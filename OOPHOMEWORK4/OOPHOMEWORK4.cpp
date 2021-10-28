@@ -386,7 +386,21 @@ int main()
         array.print();
         obzac2();
     }
-
+    
+    {
+        //ЕЩЕ РЕШЕНИЕ, НО ТОЛЬКО С РАНДОМОМ.
+        /*int size = 0;
+        cin >> size;
+        ArrayInt array(size);
+        for (int j = 0; j < size; j++)
+        {
+            array[j] = rand() % 50;
+        }
+        array.deleteFirst();
+        array.deleteLast();
+        array.print();
+        */
+    }
 
     {  
         obzac();
