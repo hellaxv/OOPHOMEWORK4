@@ -372,6 +372,7 @@ int main()
     }
     
     {
+        //1ВЫЙ ВАРИАНТ РЕШЕНИЯ.
         obzac();
         ArrayInt array(6);
         array[0] = 1;
